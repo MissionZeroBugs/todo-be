@@ -4,7 +4,6 @@ import com.missionzerobugs.todobe.Dto.TodoTaskEntity;
 import com.missionzerobugs.todobe.service.TodoTaskService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.web.client.HttpClientErrorException;
 import org.springframework.web.server.ResponseStatusException;
 
 import java.util.List;
